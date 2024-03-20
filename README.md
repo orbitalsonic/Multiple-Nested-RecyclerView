@@ -1,4 +1,4 @@
-# Multiple-RecyclerView
+# Multiple-Nested-RecyclerView
 Multiple RecyclerView
 
 # Screenshots
